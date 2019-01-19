@@ -1,3 +1,25 @@
-li {
-    color: red;
+body {
+    background-image: url("./assets/images/white_sand.png");
+}
+
+
+
+    
+
+
+
+
+
+.Name {
+    color: white;
+    height:30px;
+    width: 100px;
+    background-color: #4aaaa5;
+
+}
+
+.vinimage{
+    float: left;
+    padding-right: 25px;
+
 }
