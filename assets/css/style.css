@@ -4,7 +4,7 @@ body{
 
 
 .container{
-    position: relative;
+    /*position: relative;*/
 }
 
 
@@ -18,7 +18,7 @@ h1 {
     position: relative;
     left: 380px;
     z-index: 3;
-    top: -10px;
+    top: -8px;
     padding: 10px;
 
 
@@ -32,6 +32,7 @@ h2 {
 p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
+    line-height: 2;
 }
 
 .vinimage{
@@ -54,11 +55,11 @@ p {
     left: 100px;
     bottom: -120px;
     margin: 10px 10px 10px 10px;
-    padding: 10px 10px 10px 10px;
-    
+    padding: 10px 25px 10px 25px;
+    z-index: 5;
 }
 
-.buttons{
+.space{
 
     position: relative;
     float: left;
@@ -83,7 +84,7 @@ p {
     color: #777777;
     width: 100%;
     text-align: center;
-    top: 410px;
+    top: 100px;
     padding: 15px;
     font-size: small;
     z-index: 2;
@@ -95,7 +96,21 @@ p {
     background-color: #4aaaa5;
     float: left;
     position: relative;
-    top: 355px;
+    top: 50px;
+    margin: 0;
 
 }
 
+.buttons{
+    position: absolute;
+    background-color:white;
+    z-index: 4;
+    top: 85px;
+    right: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    width: 200px;
+
+
+    
+}
