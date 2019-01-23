@@ -16,7 +16,7 @@ body{
     /*float: left;*/
     border: transparent;
     width: 960px;
-    height: 500px;
+    height: auto;
     /*left: 100px;*/
     /*bottom: -120px;*/
     margin: auto;
