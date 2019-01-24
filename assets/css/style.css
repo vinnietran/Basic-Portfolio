@@ -83,8 +83,15 @@ p {
 
 }
 .footer{
+
+    margin:0 auto;
+    width:834px;
+    height:auto;
+    overflow:hidden;
+    position: fixed;
+    bottom: 0px;
     
-    float: left;
+    /*float: left;
     position: absolute;
     margin:0;
     background-color: #666666;
@@ -94,7 +101,7 @@ p {
     bottom:px;
     padding: 15px;
     font-size: small;
-    z-index: 2;
+    z-index: 2;*/
 }
 
 .stylebar{
