@@ -150,6 +150,10 @@ a:visited{
     line-height: 2;
 }
 
+a:hover{
+    color: red;
+}
+
 .image{
     position: relative;
 }
