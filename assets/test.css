@@ -157,6 +157,31 @@ a:visited{
    
 }
 
+.img1{
+    position: absolute;
+    float: left;
+}
+
+.img2{
+    position: absolute;
+    float: left;
+    right: 300px;
+}
+
+.img3{
+    position: absolute;
+    float: left;
+}
+
+.img4{
+    position: absolute;
+    float: left;
+}
+
+.img4{
+    position: absolute;
+    float: left;
+}
 
 
 
